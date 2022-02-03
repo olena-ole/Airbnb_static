@@ -1,0 +1,64 @@
+.card--container {
+    width: 471px;
+    height: 168px;
+    margin: 0 auto;
+    display: flex;
+    color: #2B283A;
+    margin-top: 36px;
+    font-weight: 400;
+}
+
+.card--image {
+    max-width: 126px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-right: 19px;
+}
+
+.card--location {
+    margin-top: 7px;
+}
+
+.card--location > span {
+    font-size: 11px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+    margin-left: 4px;
+}
+
+.card--location > a {
+    font-size: 11px;
+    line-height: 12px;
+    color: #918E9B;
+    margin-left: 12px;
+}
+
+.card--pin {
+    width: 7px;
+    height: 10px;
+}
+
+.card--title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+    margin: 0;
+    margin-top: 4px;
+}
+
+.card--timeline {
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 12px;
+    margin: 0;
+    margin-top: 14px;
+}
+
+.card--descr {
+    font-size: 11px;
+    line-height: 150%;
+}
+

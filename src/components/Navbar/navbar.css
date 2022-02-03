@@ -1,0 +1,22 @@
+.nav {
+    width: 100vw;
+    height: 50px;
+    background-color: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav--logo {
+    max-width: 24px;
+    height: auto;
+}
+
+.nav--text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    margin-left: 7px;
+}
